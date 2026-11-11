@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/1e5d007mgyu61.css","style"]
+:HL["/_next/static/chunks/0k_nqvskxk0qu.css","style"]
+:HL["/_next/static/media/Geologica_wght-s.p.1oqzy65tzjtrj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/15i667fq5xg3r.css","style"]
+:HL["/_next/static/chunks/0euox33oyn6j3.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"contact","h":96,"c":"$Q2"}]]
+0:{"b":"xVUyIriGx4DpcZu32pF8U","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

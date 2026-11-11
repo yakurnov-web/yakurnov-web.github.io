@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/300j7bl5l2iay.js"
+3:"/_next/static/chunks/33z72k09fq65s.js"
+4:"/_next/static/chunks/1d_b8b7_ss8u5.js"
+5:"/_next/static/chunks/0ejcg_jq2sd2w.js"
+6:"/_next/static/chunks/37npmw84azgm7.js"
+7:I[11737,["$2","$3","$4","$5","$6"],"default"]
+8:I[39756,["$2","$3","$4","$5","$6"],"default"]
+9:"/_next/static/chunks/3iht6-owfwevb.js"
+a:I[8821,["$2","$3","$4","$5","$6","$9"],"default"]
+b:I[37457,["$2","$3","$4","$5","$6"],"default"]
+c:"/_next/static/chunks/3rwdjbkw5pk7v.js"
+d:I[9616,["$2","$3","$4","$5","$6","$c"],"default"]
+e:"/_next/static/chunks/26aea4i8nljhf.js"
+f:"/_next/static/chunks/1kh2w-t9mc5xb.js"
+10:I[5278,["$2","$3","$4","$5","$6","$e","$f"],"default"]
+11:I[85882,["$2","$3","$4","$5","$6"],"default"]
+12:I[16404,["$2","$3","$4","$5","$6"],"default"]
+13:I[47420,["$2","$3","$4","$5","$6"],"default"]
+14:I[56551,["$2","$3","$4","$5","$6"],"default"]
+15:I[74546,["$2","$3","$4","$5","$6"],"default"]
+16:I[69268,["$2","$3","$4","$5","$6"],"default"]
+1d:I[34145,["$2","$3","$4","$5","$6","$c"],"default"]
+1e:I[97367,["$2","$3","$4","$5","$6"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+22:"ViewportBoundary"
+23:I[97367,["$2","$3","$4","$5","$6"],"$22"]
+24:"MetadataBoundary"
+25:I[97367,["$2","$3","$4","$5","$6"],"$24"]
+:HL["/_next/static/chunks/1e5d007mgyu61.css","style"]
+:HL["/_next/static/chunks/0k_nqvskxk0qu.css","style"]
+:HL["/_next/static/chunks/15i667fq5xg3r.css","style"]
+:HL["/_next/static/chunks/0euox33oyn6j3.css","style"]
+18:X
+1b:X
+1b:C
+1c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"wGd5-q_page","data-dark-zone":"","children":[["$","$Ld",null,{"tone":"dark"}],["$","main",null,{"id":"main","tabIndex":-1,"className":"wGd5-q_pageMain","data-reveal-fade":"","children":["$","$L1d",null,{"page":true}]}]]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/15i667fq5xg3r.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3rwdjbkw5pk7v.js","async":true}]],["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]]}],"p":"$@21","v":null,"s":"$18"}}]]
+19:[["children",{"s":"contact","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@1a","v":"$1b","s":"$18"},"c":"$Q1c"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1e5d007mgyu61.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0k_nqvskxk0qu.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/300j7bl5l2iay.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/33z72k09fq65s.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/1d_b8b7_ss8u5.js","async":true}],["$","script","script-3",{"src":"/_next/static/chunks/0ejcg_jq2sd2w.js","async":true}],["$","script","script-4",{"src":"/_next/static/chunks/37npmw84azgm7.js","async":true}]],["$","html",null,{"lang":"ru","className":"XmJWXW_variable fDrBGq_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(d){try{var s=sessionStorage,l=localStorage,k=\"greeted\",n=Date.now();if(s.getItem(k)||n-(+l.getItem(k)||0)<86400000)return;s.setItem(k,\"1\");l.setItem(k,String(n))}catch(e){return}d.setAttribute(\"data-preloader\",\"\");var keys={\" \":1,PageUp:1,PageDown:1,Home:1,End:1,ArrowUp:1,ArrowDown:1},o={passive:false,capture:true},ev=[\"wheel\",\"touchmove\",\"keydown\"],stop=function(e){if(e.type!==\"keydown\"||keys[e.key])e.preventDefault()},free=0,h={at:performance.now(),release:function(){if(free)return;free=1;ev.forEach(function(t){removeEventListener(t,stop,o)})}};ev.forEach(function(t){addEventListener(t,stop,o)});window.__preloader=h;var end=function(){if(h.claimed)return;h.release();d.removeAttribute(\"data-preloader\")};addEventListener(\"animationend\",function(e){if(e.target.hasAttribute&&e.target.hasAttribute(\"data-preloader-panel\"))end()},true);setTimeout(end,2900)})(document.documentElement)"}}]}],["$","body",null,{"children":[["$","$L7",null,{}],[["$","style",null,{"dangerouslySetInnerHTML":{"__html":":root{--preloader-cap:1.1s;--preloader-exit:0.8s;--preloader-ease:cubic-bezier(0.83, 0, 0.17, 1);--preloader-fade:0.3s;--rise-failsafe:calc(3s + var(--preloader-wait, 0s))}html[data-preloader]{--preloader-wait:1.9000000000000001s}"}}],["$","noscript",null,{"dangerouslySetInnerHTML":{"__html":"<style>.DQXlqG_split,.DQXlqG_line{transform:none!important;opacity:1!important;animation:none!important}</style>"}}]],["$","$L8",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/15i667fq5xg3r.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0euox33oyn6j3.css","precedence":"next"}]],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/3iht6-owfwevb.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[[["$","$Ld",null,{}],["$","$L10",null,{}]],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/15i667fq5xg3r.css","precedence":"next"}]]]}],["$","$L11",null,{}],["$","$L12",null,{}],["$","$L13",null,{}],["$","$L14",null,{}],["$","$L15",null,{}],false,false,["$","$L16",null,{}]]}]]}]]}],"p":"$@17","v":null,"s":"$18"},"c":"$Q19"},"h":{"r":["$","$1","h",{"children":[null,["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#EFEFEC"}]]}],["$","$L25",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Контакт — Илья"}],["$","meta","1",{"name":"description","content":"Есть задача? Напишите Илье в Telegram @Elay_jo или на почту."}],["$","meta","2",{"name":"application-name","content":"Илья"}],["$","link","3",{"rel":"canonical","href":"https://yakurnov-web.github.io/contact/"}],["$","meta","4",{"name":"format-detection","content":"telephone=no"}],["$","meta","5",{"property":"og:title","content":"Контакт — Илья"}],["$","meta","6",{"property":"og:description","content":"Есть задача? Напишите Илье в Telegram @Elay_jo или на почту."}],["$","meta","7",{"property":"og:url","content":"https://yakurnov-web.github.io/contact/"}],["$","meta","8",{"property":"og:site_name","content":"Илья"}],["$","meta","9",{"property":"og:locale","content":"ru_RU"}],"$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34"]}]}],null]}],"$L35"]}],"p":"$@36","v":null,"s":"$18"}},"a":"$@37","u":"$@38","b":"xVUyIriGx4DpcZu32pF8U"}
+39:I[27201,["$2","$3","$4","$5","$6"],"IconMark"]
+20:null
+26:["$","meta","10",{"property":"og:image","content":"https://yakurnov-web.github.io/og/contact.jpg"}]
+27:["$","meta","11",{"property":"og:image:type","content":"image/jpeg"}]
+28:["$","meta","12",{"property":"og:image:width","content":"1200"}]
+29:["$","meta","13",{"property":"og:image:height","content":"630"}]
+2a:["$","meta","14",{"property":"og:image:alt","content":"Контакт — Илья"}]
+2b:["$","meta","15",{"property":"og:type","content":"website"}]
+2c:["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}]
+2d:["$","meta","17",{"name":"twitter:title","content":"Контакт — Илья"}]
+2e:["$","meta","18",{"name":"twitter:description","content":"Есть задача? Напишите Илье в Telegram @Elay_jo или на почту."}]
+2f:["$","meta","19",{"name":"twitter:image","content":"https://yakurnov-web.github.io/og/contact.jpg"}]
+30:["$","meta","20",{"name":"twitter:image:alt","content":"Контакт — Илья"}]
+31:["$","link","21",{"rel":"icon","href":"/favicon.ico?favicon.3e3o_1bdwinpl.ico","sizes":"48x48","type":"image/x-icon"}]
+32:["$","link","22",{"rel":"icon","href":"/icon.svg?icon.33r2vl9tewwed.svg","sizes":"any","type":"image/svg+xml"}]
+33:["$","link","23",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.34lkq_gwh97s7.png","sizes":"180x180","type":"image/png"}]
+34:["$","$L39","24",{}]
+35:["$","meta",null,{"name":"next-size-adjust","content":""}]
+18:300
+38:true
+18:C
+37:0
+1a:"$undefined"
+17:"$undefined"
+36:"$undefined"
+21:"$undefined"

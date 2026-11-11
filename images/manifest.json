@@ -1,0 +1,3256 @@
+{
+  "photos/hero-desktop": {
+    "src": "photos/hero-desktop-v2.jpg",
+    "width": 1792,
+    "height": 2400,
+    "widths": [640, 1280, 1792],
+    "textures": {
+      "1024": {
+        "width": 765,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1529,
+        "height": 2048
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "50% 30%",
+      "phone": "50% 30%"
+    }
+  },
+  "photos/hero-mobile": {
+    "src": "photos/hero-mobile-v3.jpg",
+    "width": 2400,
+    "height": 2352,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 1004
+      },
+      "2048": {
+        "width": 2048,
+        "height": 2007
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "50% 45%",
+      "phone": "50% 45%"
+    }
+  },
+  "photos/about": {
+    "src": "photos/about-v2.jpg",
+    "width": 1792,
+    "height": 2400,
+    "widths": [640, 1280, 1792],
+    "textures": {
+      "1024": {
+        "width": 765,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1529,
+        "height": 2048
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "40% 30%",
+      "phone": "50% 28%"
+    }
+  },
+  "work/cytomed-proactive/site": {
+    "src": "cases/proactive/d-first.jpg",
+    "width": 2880,
+    "height": 1800,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 640
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1280
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/cover": {
+    "src": "cases/proactive/materials/hero-visual.png",
+    "trim": 0.03,
+    "width": 1804,
+    "height": 846,
+    "widths": [640, 1280, 1804],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 480
+      },
+      "2048": {
+        "width": 1804,
+        "height": 846
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/ramigan": {
+    "src": "cases/proactive/ramigan-active-d-first.jpg",
+    "width": 2880,
+    "height": 1800,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 640
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1280
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/antal-kz/cover": {
+    "src": "cases/antal/site-images/closing-terrace-2400.jpg",
+    "width": 2400,
+    "height": 1340,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 572
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1143
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "scrim": true
+  },
+  "work/wuzum-school/first-screen-2025": {
+    "src": "cases/vuzum/composed/first-screen-2025.jpg",
+    "width": 2880,
+    "height": 1620,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1152
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/wuzum-school/cover": {
+    "src": "cases/vuzum/hero-card-figma.png",
+    "width": 2214,
+    "height": 1530,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 708
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1415
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/wuzum-school/cover-phone",
+    "ui": true,
+    "phoneDesktop": true
+  },
+  "work/wuzum-school/cover-phone": {
+    "src": "cases/vuzum/hero-card-figma.png",
+    "crop": {
+      "left": 0.03,
+      "top": 0.03,
+      "width": 0.94,
+      "height": 0.46
+    },
+    "width": 2081,
+    "height": 704,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 346
+      },
+      "2048": {
+        "width": 2048,
+        "height": 693
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "50% 50%",
+      "phone": "85% 50%"
+    },
+    "scrim": true,
+    "ui": true
+  },
+  "work/syrie-upakovka/cover": {
+    "src": "cases/syrie/render/cover.png",
+    "width": 2752,
+    "height": 1536,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 572
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1143
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "70% 50%",
+      "phone": "50% 35%"
+    },
+    "scrim": true,
+    "phone": "work/syrie-upakovka/cover-phone"
+  },
+  "work/syrie-upakovka/cover-phone": {
+    "src": "cases/syrie/render/cover-phone.png",
+    "width": 1350,
+    "height": 2400,
+    "widths": [640, 1280, 1350],
+    "textures": {
+      "1024": {
+        "width": 576,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1152,
+        "height": 2048
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "50% 50%",
+      "phone": "50% 50%"
+    },
+    "scrim": true
+  },
+  "work/syrie-upakovka/live": {
+    "src": "cases/syrie/composed/live.jpg",
+    "width": 3000,
+    "height": 1941,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/syrie-upakovka/live-phone",
+    "ui": true
+  },
+  "work/syrie-upakovka/live-phone": {
+    "src": "cases/syrie/composed/live-phone.jpg",
+    "width": 1500,
+    "height": 1203,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 821
+      },
+      "2048": {
+        "width": 1500,
+        "height": 1203
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/personas": {
+    "src": "cases/syrie/ui2/personas.png",
+    "width": 2720,
+    "height": 1760,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/syrie-upakovka/personas-phone",
+    "ui": true
+  },
+  "work/syrie-upakovka/personas-phone": {
+    "src": "cases/syrie/ui2/personas-phone.png",
+    "width": 1500,
+    "height": 1205,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 823
+      },
+      "2048": {
+        "width": 1500,
+        "height": 1205
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/structure": {
+    "src": "cases/syrie/ui2/structure.png",
+    "width": 2720,
+    "height": 1760,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/syrie-upakovka/structure-phone",
+    "ui": true
+  },
+  "work/syrie-upakovka/structure-phone": {
+    "src": "cases/syrie/ui2/structure-phone.png",
+    "width": 1500,
+    "height": 1205,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 823
+      },
+      "2048": {
+        "width": 1500,
+        "height": 1205
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/d-search-inci": {
+    "src": "cases/syrie/composed/d-search-inci.jpg",
+    "width": 2560,
+    "height": 2115,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 846
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1692
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/syrie-upakovka/d-search-inci-phone",
+    "ui": true
+  },
+  "work/syrie-upakovka/d-search-inci-phone": {
+    "src": "cases/syrie/composed/d-search-inci-phone.jpg",
+    "width": 1500,
+    "height": 1203,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 821
+      },
+      "2048": {
+        "width": 1500,
+        "height": 1203
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/device-ingredient": {
+    "src": "cases/syrie/render/device-ingredient.png",
+    "width": 2720,
+    "height": 1760,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/syrie-upakovka/device-ingredient-phone",
+    "ui": true
+  },
+  "work/syrie-upakovka/device-ingredient-phone": {
+    "src": "cases/syrie/render/device-ingredient-phone.png",
+    "width": 1500,
+    "height": 1205,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 823
+      },
+      "2048": {
+        "width": 1500,
+        "height": 1205
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/detail-recipe": {
+    "src": "cases/syrie/ui2/detail-recipe.png",
+    "width": 2560,
+    "height": 2115,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 846
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1692
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/home-flat": {
+    "src": "cases/syrie/composed/home-flat.jpg",
+    "width": 2880,
+    "height": 1864,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1326
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/syrie-upakovka/home-flat-phone",
+    "ui": true
+  },
+  "work/syrie-upakovka/home-flat-phone": {
+    "src": "cases/syrie/ui2/home-flat-phone.png",
+    "width": 1500,
+    "height": 1205,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 823
+      },
+      "2048": {
+        "width": 1500,
+        "height": 1205
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/ba-live": {
+    "src": "cases/syrie/composed/ba-live.jpg",
+    "width": 2880,
+    "height": 1101,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 391
+      },
+      "2048": {
+        "width": 2048,
+        "height": 783
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/ba-new": {
+    "src": "cases/syrie/composed/ba-new.jpg",
+    "width": 2880,
+    "height": 1101,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 391
+      },
+      "2048": {
+        "width": 2048,
+        "height": 783
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/home-alive-poster": {
+    "src": "cases/syrie/video/home-alive-poster.jpg",
+    "width": 1920,
+    "height": 1080,
+    "widths": [640, 1280, 1920],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/search-poster": {
+    "src": "cases/syrie/video/search-poster.jpg",
+    "width": 1920,
+    "height": 1080,
+    "widths": [640, 1280, 1920],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/journal-scroll-poster": {
+    "src": "cases/syrie/video/journal-scroll-poster.jpg",
+    "width": 1920,
+    "height": 1080,
+    "widths": [640, 1280, 1920],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/persona-technologist-poster": {
+    "src": "cases/syrie/video/persona-technologist-poster.jpg",
+    "width": 1920,
+    "height": 1080,
+    "widths": [640, 1280, 1920],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/persona-founder-poster": {
+    "src": "cases/syrie/video/persona-founder-poster.jpg",
+    "width": 1920,
+    "height": 1080,
+    "widths": [640, 1280, 1920],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/persona-buyer-poster": {
+    "src": "cases/syrie/video/persona-buyer-poster.jpg",
+    "width": 1920,
+    "height": 1080,
+    "widths": [640, 1280, 1920],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/persona-supplier-poster": {
+    "src": "cases/syrie/video/persona-supplier-poster.jpg",
+    "width": 1920,
+    "height": 1080,
+    "widths": [640, 1280, 1920],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/structure-poster": {
+    "src": "cases/syrie/video/structure-poster.jpg",
+    "width": 1920,
+    "height": 1080,
+    "widths": [640, 1280, 1920],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/migration-poster": {
+    "src": "cases/syrie/video/migration-poster.jpg",
+    "width": 1920,
+    "height": 1080,
+    "widths": [640, 1280, 1920],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/ads-map": {
+    "src": "cases/syrie/ads/ads-map.png",
+    "width": 2880,
+    "height": 1788,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 636
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1271
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/ads-label": {
+    "src": "cases/syrie/ads/ads-label.png",
+    "width": 1600,
+    "height": 1200,
+    "widths": [640, 1280, 1600],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 768
+      },
+      "2048": {
+        "width": 1600,
+        "height": 1200
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/ads-poster": {
+    "src": "cases/syrie/video/ads-poster.jpg",
+    "width": 1920,
+    "height": 1080,
+    "widths": [640, 1280, 1920],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/article-page": {
+    "src": "cases/syrie/composed/article-page.jpg",
+    "width": 2880,
+    "height": 1800,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 640
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1280
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/article-column": {
+    "src": "cases/syrie/ui2/article-column.png",
+    "width": 2560,
+    "height": 2115,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 846
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1692
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/series": {
+    "src": "cases/syrie/render/series.png",
+    "width": 2720,
+    "height": 1760,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/syrie-upakovka/series-phone",
+    "ui": true
+  },
+  "work/syrie-upakovka/series-phone": {
+    "src": "cases/syrie/render/series-phone.png",
+    "width": 1500,
+    "height": 1205,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 823
+      },
+      "2048": {
+        "width": 1500,
+        "height": 1205
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/d-migration": {
+    "src": "cases/syrie/composed/d-migration.jpg",
+    "width": 2560,
+    "height": 2115,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 846
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1692
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/syrie-upakovka/d-migration-phone",
+    "ui": true
+  },
+  "work/syrie-upakovka/d-migration-phone": {
+    "src": "cases/syrie/composed/d-migration-phone.jpg",
+    "width": 1200,
+    "height": 1677,
+    "widths": [640, 1200],
+    "textures": {
+      "1024": {
+        "width": 733,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1200,
+        "height": 1677
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/detail-moved": {
+    "src": "cases/syrie/ui2/detail-moved.png",
+    "width": 1600,
+    "height": 1853,
+    "widths": [640, 1280, 1600],
+    "textures": {
+      "1024": {
+        "width": 884,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1600,
+        "height": 1853
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/syrie-upakovka/detail-moved-phone",
+    "ui": true
+  },
+  "work/syrie-upakovka/detail-moved-phone": {
+    "src": "cases/syrie/ui2/detail-moved-phone.png",
+    "width": 1200,
+    "height": 1296,
+    "widths": [640, 1200],
+    "textures": {
+      "1024": {
+        "width": 948,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1200,
+        "height": 1296
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/migration-states": {
+    "src": "cases/syrie/ui2/migration-states.png",
+    "width": 2720,
+    "height": 1760,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/syrie-upakovka/migration-states-phone",
+    "ui": true
+  },
+  "work/syrie-upakovka/migration-states-phone": {
+    "src": "cases/syrie/ui2/migration-states-phone.png",
+    "width": 1500,
+    "height": 1205,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 823
+      },
+      "2048": {
+        "width": 1500,
+        "height": 1205
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/phones": {
+    "src": "cases/syrie/composed/phones.jpg",
+    "width": 2560,
+    "height": 2115,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 846
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1692
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/syrie-upakovka/phones-phone",
+    "ui": true
+  },
+  "work/syrie-upakovka/phones-phone": {
+    "src": "cases/syrie/composed/phones-phone.jpg",
+    "width": 1200,
+    "height": 1677,
+    "widths": [640, 1200],
+    "textures": {
+      "1024": {
+        "width": 733,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1200,
+        "height": 1677
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/p-phone-ingredient": {
+    "src": "cases/syrie/composed/p-phone-ingredient.jpg",
+    "width": 1600,
+    "height": 1853,
+    "widths": [640, 1280, 1600],
+    "textures": {
+      "1024": {
+        "width": 884,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1600,
+        "height": 1853
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/syrie-upakovka/p-phone-ingredient-phone",
+    "ui": true
+  },
+  "work/syrie-upakovka/p-phone-ingredient-phone": {
+    "src": "cases/syrie/composed/p-phone-ingredient-phone.jpg",
+    "width": 1200,
+    "height": 1296,
+    "widths": [640, 1200],
+    "textures": {
+      "1024": {
+        "width": 948,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1200,
+        "height": 1296
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/syrie-upakovka/process": {
+    "src": "cases/syrie/ui2/process.png",
+    "width": 2720,
+    "height": 1760,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/syrie-upakovka/process-phone",
+    "ui": true
+  },
+  "work/syrie-upakovka/process-phone": {
+    "src": "cases/syrie/ui2/process-phone.png",
+    "width": 1500,
+    "height": 1205,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 823
+      },
+      "2048": {
+        "width": 1500,
+        "height": 1205
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/cover": {
+    "src": "cases/rezhim/render/cover.png",
+    "width": 2560,
+    "height": 1429,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 572
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1143
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "80% 50%",
+      "phone": "50% 50%"
+    },
+    "phone": "work/rezhim/cover-phone",
+    "tablet": "work/rezhim/cover-tablet"
+  },
+  "work/rezhim/cover-tablet": {
+    "src": "cases/rezhim/render/cover-tablet.png",
+    "crop": {
+      "left": 0,
+      "top": 0.027,
+      "width": 0.946,
+      "height": 0.946
+    },
+    "width": 1937,
+    "height": 1453,
+    "widths": [640, 1280, 1937],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 768
+      },
+      "2048": {
+        "width": 1937,
+        "height": 1453
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "80% 50%",
+      "phone": "45% 50%"
+    }
+  },
+  "work/rezhim/cover-phone": {
+    "src": "cases/rezhim/render/cover-phone.png",
+    "width": 1350,
+    "height": 2400,
+    "widths": [640, 1280, 1350],
+    "textures": {
+      "1024": {
+        "width": 576,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1152,
+        "height": 2048
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "50% 50%",
+      "phone": "50% 50%"
+    }
+  },
+  "work/rezhim/shelf-now": {
+    "src": "cases/rezhim/flat/01-shelf.png",
+    "width": 2560,
+    "height": 1656,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 662
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/rezhim/shelf-now-phone",
+    "ui": true
+  },
+  "work/rezhim/shelf-now-phone": {
+    "src": "cases/rezhim/flat/01-shelf-phone.png",
+    "width": 1500,
+    "height": 1330,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 908
+      },
+      "2048": {
+        "width": 1500,
+        "height": 1330
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/platform": {
+    "src": "cases/rezhim/flat/02-platform.png",
+    "width": 2560,
+    "height": 1656,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 662
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/rezhim/platform-phone",
+    "ui": true
+  },
+  "work/rezhim/platform-phone": {
+    "src": "cases/rezhim/flat/02-platform-phone.png",
+    "width": 1500,
+    "height": 1290,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 881
+      },
+      "2048": {
+        "width": 1500,
+        "height": 1290
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/brand": {
+    "src": "cases/rezhim/flat/12-brand.png",
+    "width": 2560,
+    "height": 1656,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 662
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/rezhim/brand-phone",
+    "ui": true
+  },
+  "work/rezhim/brand-phone": {
+    "src": "cases/rezhim/flat/12-brand-phone.png",
+    "width": 1500,
+    "height": 1360,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 928
+      },
+      "2048": {
+        "width": 1500,
+        "height": 1360
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/details-2": {
+    "src": "cases/rezhim/render/details-2.png",
+    "width": 2560,
+    "height": 1656,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 662
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "0% 62%",
+      "phone": "0% 62%"
+    },
+    "ui": true
+  },
+  "work/rezhim/turn-poster": {
+    "src": "cases/rezhim/video/turn-poster.png",
+    "width": 1280,
+    "height": 720,
+    "widths": [640, 1280],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    }
+  },
+  "work/rezhim/bottle": {
+    "src": "cases/rezhim/render/bottle.png",
+    "crop": {
+      "left": 0.1485,
+      "top": 0.05,
+      "width": 0.703,
+      "height": 0.9
+    },
+    "width": 1800,
+    "height": 1490,
+    "widths": [640, 1280, 1800],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 848
+      },
+      "2048": {
+        "width": 1800,
+        "height": 1490
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "50% 50%",
+      "phone": "50% 50%"
+    },
+    "ui": true
+  },
+  "work/rezhim/macro": {
+    "src": "cases/rezhim/render/macro.png",
+    "width": 2560,
+    "height": 1656,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 662
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "48% 40%",
+      "phone": "48% 40%"
+    }
+  },
+  "work/rezhim/print": {
+    "src": "cases/rezhim/flat/05-print.png",
+    "width": 2560,
+    "height": 1656,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 662
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/rezhim/print-phone",
+    "ui": true
+  },
+  "work/rezhim/print-phone": {
+    "src": "cases/rezhim/flat/05-print-phone.png",
+    "width": 1500,
+    "height": 1520,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 1011,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1500,
+        "height": 1520
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/day-poster": {
+    "src": "cases/rezhim/video/day-poster.png",
+    "width": 1920,
+    "height": 1080,
+    "widths": [640, 1280, 1920],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    }
+  },
+  "work/rezhim/family": {
+    "src": "cases/rezhim/render/family.png",
+    "width": 2560,
+    "height": 1656,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 662
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/pouch": {
+    "src": "cases/rezhim/render/pouch.png",
+    "width": 2560,
+    "height": 1656,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 662
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "45% 50%",
+      "phone": "45% 50%"
+    },
+    "ui": true
+  },
+  "work/rezhim/set": {
+    "src": "cases/rezhim/render/set.png",
+    "width": 2560,
+    "height": 1656,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 662
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/shelf": {
+    "src": "cases/rezhim/render/shelf.png",
+    "width": 2560,
+    "height": 1656,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 662
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/card-phone": {
+    "src": "cases/rezhim/render/card-phone.png",
+    "width": 2560,
+    "height": 1656,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 662
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/slides": {
+    "src": "cases/rezhim/flat/10-slides.png",
+    "width": 2560,
+    "height": 1656,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 662
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/slide-1": {
+    "src": "cases/rezhim/flat/10-slide-1.png",
+    "width": 1200,
+    "height": 1600,
+    "widths": [640, 1200],
+    "textures": {
+      "1024": {
+        "width": 768,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/slide-2": {
+    "src": "cases/rezhim/flat/10-slide-2.png",
+    "width": 1200,
+    "height": 1600,
+    "widths": [640, 1200],
+    "textures": {
+      "1024": {
+        "width": 768,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/slide-3": {
+    "src": "cases/rezhim/flat/10-slide-3.png",
+    "width": 1200,
+    "height": 1600,
+    "widths": [640, 1200],
+    "textures": {
+      "1024": {
+        "width": 768,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/slide-4": {
+    "src": "cases/rezhim/flat/10-slide-4.png",
+    "width": 1200,
+    "height": 1600,
+    "widths": [640, 1200],
+    "textures": {
+      "1024": {
+        "width": 768,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/slide-5": {
+    "src": "cases/rezhim/flat/10-slide-5.png",
+    "width": 1200,
+    "height": 1600,
+    "widths": [640, 1200],
+    "textures": {
+      "1024": {
+        "width": 768,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/reel-poster": {
+    "src": "cases/rezhim/video/reel-poster.png",
+    "width": 1080,
+    "height": 1920,
+    "widths": [640, 1080],
+    "textures": {
+      "1024": {
+        "width": 576,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1080,
+        "height": 1920
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    }
+  },
+  "work/rezhim/e1": {
+    "src": "cases/rezhim/editorial/e1.jpg",
+    "width": 2560,
+    "height": 1707,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 683
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1366
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    }
+  },
+  "work/rezhim/e2": {
+    "src": "cases/rezhim/editorial/e2.jpg",
+    "width": 2560,
+    "height": 1707,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 683
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1366
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    }
+  },
+  "work/rezhim/e3": {
+    "src": "cases/rezhim/editorial/e3.jpg",
+    "width": 2560,
+    "height": 1707,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 683
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1366
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    }
+  },
+  "work/rezhim/social": {
+    "src": "cases/rezhim/render/social.png",
+    "width": 2560,
+    "height": 1656,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 662
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/rezhim/key": {
+    "src": "cases/rezhim/flat/11-key-h.png",
+    "width": 2560,
+    "height": 1440,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1152
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/rezhim/key-phone",
+    "ui": true
+  },
+  "work/rezhim/key-phone": {
+    "src": "cases/rezhim/flat/11-key-v.png",
+    "width": 1440,
+    "height": 2560,
+    "widths": [640, 1280, 1440],
+    "textures": {
+      "1024": {
+        "width": 576,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1152,
+        "height": 2048
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/approach-macro-ramigan": {
+    "src": "cases/proactive/macro/ramigan-macro.png",
+    "crop": {
+      "left": 0.075,
+      "top": 0,
+      "width": 0.85,
+      "height": 1
+    },
+    "width": 948,
+    "height": 1200,
+    "widths": [640, 948],
+    "textures": {
+      "1024": {
+        "width": 809,
+        "height": 1024
+      },
+      "2048": {
+        "width": 948,
+        "height": 1200
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    }
+  },
+  "work/cytomed-proactive/approach-macro-pearl": {
+    "src": "cases/proactive/macro/pearllight-macro.png",
+    "crop": {
+      "left": 0.0695,
+      "top": 0,
+      "width": 0.861,
+      "height": 1
+    },
+    "width": 960,
+    "height": 1200,
+    "widths": [640, 960],
+    "textures": {
+      "1024": {
+        "width": 819,
+        "height": 1024
+      },
+      "2048": {
+        "width": 960,
+        "height": 1200
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    }
+  },
+  "work/cytomed-proactive/figma-archive": {
+    "src": "figma/cytomed-1-archive.png",
+    "crop": {
+      "left": 0.10851,
+      "top": 0.18684,
+      "width": 0.42882,
+      "height": 0.81316
+    },
+    "width": 494,
+    "height": 618,
+    "widths": [494],
+    "textures": {
+      "1024": {
+        "width": 494,
+        "height": 618
+      },
+      "2048": {
+        "width": 494,
+        "height": 618
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/journal-detail": {
+    "src": "cases/proactive/journal/journal-photo-1.jpg",
+    "crop": {
+      "left": 0.5,
+      "top": 0.296875,
+      "width": 0.43333,
+      "height": 0.40625
+    },
+    "width": 416,
+    "height": 520,
+    "widths": [416],
+    "textures": {
+      "1024": {
+        "width": 416,
+        "height": 520
+      },
+      "2048": {
+        "width": 416,
+        "height": 520
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    }
+  },
+  "work/cytomed-proactive/site-build-poster": {
+    "src": "cases/proactive/video/site-build-poster.jpg",
+    "width": 1920,
+    "height": 1080,
+    "widths": [640, 1280, 1920],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/site-hero": {
+    "src": "cases/proactive/composed/site-hero.jpg",
+    "width": 3000,
+    "height": 1941,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/product-miorlx": {
+    "src": "cases/proactive/materials/Frame 150.png",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1,
+      "height": 0.84
+    },
+    "width": 3150,
+    "height": 3742,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 862,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1724,
+        "height": 2048
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    }
+  },
+  "work/cytomed-proactive/product-progeskin": {
+    "src": "cases/proactive/materials/Frame 151.png",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1,
+      "height": 0.84
+    },
+    "width": 3150,
+    "height": 3742,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 862,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1724,
+        "height": 2048
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    }
+  },
+  "work/cytomed-proactive/product-2hair": {
+    "src": "cases/proactive/materials/Frame 153.png",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1,
+      "height": 0.84
+    },
+    "width": 3150,
+    "height": 3742,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 862,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1724,
+        "height": 2048
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    }
+  },
+  "work/cytomed-proactive/pages-board": {
+    "src": "cases/proactive/composed/pages-board.jpg",
+    "width": 3000,
+    "height": 1941,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/ramigan-detail": {
+    "src": "cases/proactive/ramigan-active-d-full.jpg",
+    "crop": {
+      "left": 0.4115,
+      "top": 0.115,
+      "width": 0.5885,
+      "height": 0.105
+    },
+    "width": 1695,
+    "height": 1400,
+    "widths": [640, 1280, 1695],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 846
+      },
+      "2048": {
+        "width": 1695,
+        "height": 1400
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/phone-screens": {
+    "src": "cases/proactive/composed/phone-screens.jpg",
+    "width": 2400,
+    "height": 1982,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 846
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1691
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "50% 50%",
+      "phone": "0% 50%"
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/uncrease-detail": {
+    "src": "cases/proactive/uncrease-active-d-full.jpg",
+    "crop": {
+      "left": 0.4097,
+      "top": 0.1149,
+      "width": 0.5903,
+      "height": 0.1507
+    },
+    "width": 1700,
+    "height": 1968,
+    "widths": [640, 1280, 1700],
+    "textures": {
+      "1024": {
+        "width": 885,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1700,
+        "height": 1968
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/booklet-cover-spread": {
+    "src": "cases/proactive/composed/booklet-cover-spread.jpg",
+    "width": 3000,
+    "height": 1941,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/cytomed-proactive/booklet-cover-spread-phone",
+    "ui": true
+  },
+  "work/cytomed-proactive/booklet-cover-spread-phone": {
+    "src": "cases/proactive/composed/booklet-cover-spread-phone.jpg",
+    "width": 1600,
+    "height": 1284,
+    "widths": [640, 1280, 1600],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 822
+      },
+      "2048": {
+        "width": 1600,
+        "height": 1284
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/booklet-series": {
+    "src": "cases/proactive/composed/booklet-series.jpg",
+    "width": 3000,
+    "height": 1941,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/cytomed-proactive/booklet-series-phone",
+    "ui": true
+  },
+  "work/cytomed-proactive/booklet-series-phone": {
+    "src": "cases/proactive/composed/booklet-series-phone.jpg",
+    "width": 1600,
+    "height": 1284,
+    "widths": [640, 1280, 1600],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 822
+      },
+      "2048": {
+        "width": 1600,
+        "height": 1284
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/booklet-spread-neutra": {
+    "src": "cases/proactive/composed/booklet-spread-neutra.jpg",
+    "width": 2400,
+    "height": 1982,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 846
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1691
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/cytomed-proactive/booklet-spread-neutra-phone",
+    "ui": true
+  },
+  "work/cytomed-proactive/booklet-spread-neutra-phone": {
+    "src": "cases/proactive/composed/booklet-spread-neutra-phone.jpg",
+    "width": 1200,
+    "height": 1677,
+    "widths": [640, 1200],
+    "textures": {
+      "1024": {
+        "width": 733,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1200,
+        "height": 1677
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/booklet-detail-jar": {
+    "src": "cases/proactive/composed/booklet-detail-jar.jpg",
+    "width": 900,
+    "height": 1042,
+    "widths": [640, 900],
+    "textures": {
+      "1024": {
+        "width": 884,
+        "height": 1024
+      },
+      "2048": {
+        "width": 900,
+        "height": 1042
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/booklet-detail-table": {
+    "src": "cases/proactive/composed/booklet-detail-table.jpg",
+    "width": 1118,
+    "height": 924,
+    "widths": [640, 1118],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 846
+      },
+      "2048": {
+        "width": 1118,
+        "height": 924
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/cytomed-proactive/booklet-detail-table-phone",
+    "ui": true
+  },
+  "work/cytomed-proactive/booklet-detail-table-phone": {
+    "src": "cases/proactive/composed/booklet-detail-table-phone.jpg",
+    "width": 790,
+    "height": 634,
+    "widths": [640, 790],
+    "textures": {
+      "1024": {
+        "width": 790,
+        "height": 634
+      },
+      "2048": {
+        "width": 790,
+        "height": 634
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/booklet-before": {
+    "src": "cases/proactive/composed/booklet-before.jpg",
+    "width": 2720,
+    "height": 1040,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 392
+      },
+      "2048": {
+        "width": 2048,
+        "height": 783
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/booklet-after": {
+    "src": "cases/proactive/composed/booklet-after.jpg",
+    "width": 2720,
+    "height": 1040,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 392
+      },
+      "2048": {
+        "width": 2048,
+        "height": 783
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/old-booklet-spread": {
+    "src": "cases/proactive/composed/old-booklet-spread.jpg",
+    "width": 2400,
+    "height": 1982,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 846
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1691
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/cytomed-proactive/old-booklet-spread-phone",
+    "ui": true
+  },
+  "work/cytomed-proactive/old-booklet-spread-phone": {
+    "src": "cases/proactive/composed/old-booklet-spread-phone.jpg",
+    "width": 1200,
+    "height": 1677,
+    "widths": [640, 1200],
+    "textures": {
+      "1024": {
+        "width": 733,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1200,
+        "height": 1677
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/old-booklet-cover": {
+    "src": "cases/proactive/composed/old-booklet-cover.jpg",
+    "width": 1600,
+    "height": 1853,
+    "widths": [640, 1280, 1600],
+    "textures": {
+      "1024": {
+        "width": 884,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1600,
+        "height": 1853
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/site-video-poster": {
+    "src": "cases/proactive/composed/site-video-poster.jpg",
+    "width": 1280,
+    "height": 720,
+    "widths": [640, 1280],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/cytomed-proactive/stand-wall": {
+    "src": "cases/proactive/materials/Frame 2.png",
+    "width": 4096,
+    "height": 2316,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 579
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1158
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "40% 50%",
+      "phone": "40% 50%"
+    }
+  },
+  "work/cytomed-proactive/stand-render": {
+    "src": "cases/proactive/composed/stand-render.png",
+    "width": 1380,
+    "height": 1140,
+    "widths": [640, 1280, 1380],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 846
+      },
+      "2048": {
+        "width": 1380,
+        "height": 1140
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    }
+  },
+  "work/cytomed-proactive/stand-showcase": {
+    "src": "cases/proactive/materials/Frame 3.png",
+    "width": 2048,
+    "height": 2048,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 1024
+      },
+      "2048": {
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    }
+  },
+  "work/svoboda/cover": {
+    "src": "cases/svoboda/cover.jpg",
+    "width": 2752,
+    "height": 1536,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 572
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1143
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "68% 60%",
+      "phone": "72% 60%"
+    },
+    "scrim": true
+  },
+  "robot/404": {
+    "src": "robot/robot-404.png",
+    "width": 1056,
+    "height": 2437,
+    "widths": [640, 1056],
+    "textures": {
+      "1024": {
+        "width": 444,
+        "height": 1024
+      },
+      "2048": {
+        "width": 887,
+        "height": 2048
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    }
+  },
+  "work/antal-kz/bento-employers": {
+    "src": "cases/antal/composed/bento-employers.jpg",
+    "width": 3000,
+    "height": 1941,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/antal-kz/bento-employers-phone",
+    "ui": true
+  },
+  "work/antal-kz/bento-employers-phone": {
+    "src": "cases/antal/composed/bento-employers-phone.jpg",
+    "width": 1600,
+    "height": 1538,
+    "widths": [640, 1280, 1600],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 984
+      },
+      "2048": {
+        "width": 1600,
+        "height": 1538
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/antal-kz/bento-candidates": {
+    "src": "cases/antal/composed/bento-candidates.jpg",
+    "width": 2400,
+    "height": 1982,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 846
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1691
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/antal-kz/illustration-dream-job": {
+    "src": "cases/antal/site-images/dream-job-1600.jpg",
+    "width": 1600,
+    "height": 1194,
+    "widths": [640, 1280, 1600],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 764
+      },
+      "2048": {
+        "width": 1600,
+        "height": 1194
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "62% 50%",
+      "phone": "62% 50%"
+    }
+  },
+  "work/antal-kz/hero-build-poster": {
+    "src": "cases/antal/video/hero-build-poster.jpg",
+    "width": 1920,
+    "height": 1080,
+    "widths": [640, 1280, 1920],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/antal-kz/ba-old": {
+    "src": "cases/antal/composed/ba-old.jpg",
+    "width": 2880,
+    "height": 1101,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 391
+      },
+      "2048": {
+        "width": 2048,
+        "height": 783
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/antal-kz/ba-new": {
+    "src": "cases/antal/composed/ba-new.jpg",
+    "width": 2880,
+    "height": 1101,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 391
+      },
+      "2048": {
+        "width": 2048,
+        "height": 783
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/antal-kz/site-video-poster": {
+    "src": "cases/antal/live/video-poster.jpg",
+    "width": 1440,
+    "height": 810,
+    "widths": [640, 1280, 1440],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 576
+      },
+      "2048": {
+        "width": 1440,
+        "height": 810
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/antal-kz/media-grid": {
+    "src": "cases/antal/composed/media-grid.jpg",
+    "width": 2400,
+    "height": 1982,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 846
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1691
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/antal-kz/phone-salary": {
+    "src": "cases/antal/composed/phone-salary.jpg",
+    "width": 1500,
+    "height": 2316,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 663,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1326,
+        "height": 2048
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "50% 50%",
+      "phone": "50% 0%"
+    },
+    "ui": true
+  },
+  "work/antal-kz/phone-vacancies": {
+    "src": "cases/antal/composed/phone-vacancies.jpg",
+    "width": 1500,
+    "height": 2316,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 663,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1326,
+        "height": 2048
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "50% 50%",
+      "phone": "50% 0%"
+    },
+    "ui": true
+  },
+  "work/antal-kz/phone-bento": {
+    "src": "cases/antal/composed/phone-bento.jpg",
+    "width": 1500,
+    "height": 2316,
+    "widths": [640, 1280, 1500],
+    "textures": {
+      "1024": {
+        "width": 663,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1326,
+        "height": 2048
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "50% 50%",
+      "phone": "50% 0%"
+    },
+    "ui": true
+  },
+  "work/antal-kz/stages": {
+    "src": "cases/antal/composed/stages.jpg",
+    "width": 2400,
+    "height": 1982,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 846
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1691
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "focus": {
+      "desktop": "50% 50%",
+      "phone": "0% 50%"
+    },
+    "ui": true
+  },
+  "work/antal-kz/positions": {
+    "src": "cases/antal/composed/positions.jpg",
+    "width": 1600,
+    "height": 1853,
+    "widths": [640, 1280, 1600],
+    "textures": {
+      "1024": {
+        "width": 884,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1600,
+        "height": 1853
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/antal-kz/template-board": {
+    "src": "cases/antal/composed/template-board.jpg",
+    "width": 3000,
+    "height": 1941,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/antal-kz/template-board-phone",
+    "ui": true
+  },
+  "work/antal-kz/template-board-phone": {
+    "src": "cases/antal/composed/template-board-phone.jpg",
+    "width": 1600,
+    "height": 1390,
+    "widths": [640, 1280, 1600],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 890
+      },
+      "2048": {
+        "width": 1600,
+        "height": 1390
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/antal-kz/page-strips": {
+    "src": "cases/antal/composed/page-strips.jpg",
+    "width": 2400,
+    "height": 1982,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 846
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1691
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/antal-kz/salary-band": {
+    "src": "cases/antal/composed/salary-band.jpg",
+    "width": 3000,
+    "height": 1941,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/wuzum-school/site-video-poster": {
+    "src": "cases/vuzum/composed/video-poster.jpg",
+    "width": 1440,
+    "height": 1024,
+    "widths": [640, 1280, 1440],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 728
+      },
+      "2048": {
+        "width": 1440,
+        "height": 1024
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/wuzum-school/process": {
+    "src": "cases/vuzum/composed/process.png",
+    "width": 2720,
+    "height": 1760,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/wuzum-school/process-phone",
+    "ui": true
+  },
+  "work/wuzum-school/process-phone": {
+    "src": "cases/vuzum/composed/process-phone.png",
+    "width": 1005,
+    "height": 1187,
+    "widths": [640, 1005],
+    "textures": {
+      "1024": {
+        "width": 867,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1005,
+        "height": 1187
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/wuzum-school/bento": {
+    "src": "cases/vuzum/composed/bento.png",
+    "width": 3000,
+    "height": 1941,
+    "widths": [640, 1280, 2048],
+    "textures": {
+      "1024": {
+        "width": 1024,
+        "height": 663
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1325
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/wuzum-school/bento-phone",
+    "ui": true
+  },
+  "work/wuzum-school/bento-phone": {
+    "src": "cases/vuzum/composed/bento-phone.png",
+    "width": 1300,
+    "height": 2049,
+    "widths": [640, 1280, 1300],
+    "textures": {
+      "1024": {
+        "width": 650,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1299,
+        "height": 2048
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  },
+  "work/wuzum-school/courses-phone": {
+    "src": "cases/vuzum/composed/courses-phone.png",
+    "width": 1600,
+    "height": 1853,
+    "widths": [640, 1280, 1600],
+    "textures": {
+      "1024": {
+        "width": 884,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1600,
+        "height": 1853
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "phone": "work/wuzum-school/courses-phone-phone",
+    "ui": true
+  },
+  "work/wuzum-school/courses-phone-phone": {
+    "src": "cases/vuzum/composed/courses-phone-phone.png",
+    "width": 1005,
+    "height": 1085,
+    "widths": [640, 1005],
+    "textures": {
+      "1024": {
+        "width": 948,
+        "height": 1024
+      },
+      "2048": {
+        "width": 1005,
+        "height": 1085
+      }
+    },
+    "limits": {
+      "1024": 1024,
+      "2048": 2048
+    },
+    "ui": true
+  }
+}

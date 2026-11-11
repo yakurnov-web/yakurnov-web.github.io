@@ -1,0 +1,81 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/300j7bl5l2iay.js"
+3:"/_next/static/chunks/33z72k09fq65s.js"
+4:"/_next/static/chunks/1d_b8b7_ss8u5.js"
+5:"/_next/static/chunks/0ejcg_jq2sd2w.js"
+6:"/_next/static/chunks/37npmw84azgm7.js"
+7:I[11737,["$2","$3","$4","$5","$6"],"default"]
+8:I[39756,["$2","$3","$4","$5","$6"],"default"]
+9:"/_next/static/chunks/3iht6-owfwevb.js"
+a:I[8821,["$2","$3","$4","$5","$6","$9"],"default"]
+b:I[37457,["$2","$3","$4","$5","$6"],"default"]
+c:"/_next/static/chunks/3z4vvk79bp1a6.js"
+d:"/_next/static/chunks/1kh2w-t9mc5xb.js"
+e:I[9616,["$2","$3","$4","$5","$6","$c","$d"],"default"]
+f:"/_next/static/chunks/26aea4i8nljhf.js"
+10:I[5278,["$2","$3","$4","$5","$6","$f","$d"],"default"]
+11:I[85882,["$2","$3","$4","$5","$6"],"default"]
+12:I[16404,["$2","$3","$4","$5","$6"],"default"]
+13:I[47420,["$2","$3","$4","$5","$6"],"default"]
+14:I[56551,["$2","$3","$4","$5","$6"],"default"]
+15:I[74546,["$2","$3","$4","$5","$6"],"default"]
+16:I[69268,["$2","$3","$4","$5","$6"],"default"]
+1d:I[36861,["$2","$3","$4","$5","$6","$c","$d"],"default"]
+1e:I[57988,["$2","$3","$4","$5","$6","$c","$d"],"default"]
+1f:I[57988,["$2","$3","$4","$5","$6","$c","$d"],"ParallaxFrame"]
+20:I[55229,["$2","$3","$4","$5","$6","$c","$d"],"default"]
+21:I[34726,["$2","$3","$4","$5","$6","$c","$d"],"default"]
+22:I[57988,["$2","$3","$4","$5","$6","$c","$d"],"Enter"]
+2c:"ViewportBoundary"
+2d:I[97367,["$2","$3","$4","$5","$6"],"$2c"]
+2e:"MetadataBoundary"
+2f:I[97367,["$2","$3","$4","$5","$6"],"$2e"]
+30:"$Sreact.suspense"
+:HL["/_next/static/chunks/1e5d007mgyu61.css","style"]
+:HL["/_next/static/chunks/0k_nqvskxk0qu.css","style"]
+:HL["/_next/static/chunks/15i667fq5xg3r.css","style"]
+:HL["/_next/static/chunks/0euox33oyn6j3.css","style"]
+18:X
+1b:X
+1b:C
+1c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$Le",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"className":"-i9KWa_page wGd5-q_lifted","data-reveal-fade":"","children":[["$","$L1d",null,{}],["$","section",null,{"className":"-i9KWa_intro","children":[["$","$L1e",null,{"className":"-i9KWa_photoLayer","speed":0.86,"phoneSpeed":1,"children":["$","$L1f",null,{"className":"-i9KWa_photo","share":0.14,"mask":true,"children":["$","$L20",null,{"className":"-i9KWa_image","image":"photos/about","alt":"Илья","sizes":"(min-width: 1024px) 39vw, 100vw"}]}]}],["$","div",null,{"className":"-i9KWa_text","children":[["$","$L21",null,{"as":"h1","weight":true,"field":true,"className":"Ge_IhW_title","style":{"--title-em":3.894},"children":[[["$","span","Обо",{"style":{"fontWeight":200},"children":["","Обо"]}],["$","span","мне",{"style":{"fontWeight":700},"children":[" ","мне"]}]],null]}],["$","$L22",null,{"as":"p","className":"-i9KWa_lead","children":"Дизайнер и разработчик из Санкт-Петербурга. Веду проект от идеи и визуала до кода и анимации."}],["$","$L22",null,{"as":"p","className":"-i9KWa_body","delay":0.06,"children":"[ДОПИСАТЬ: 2–3 предложения о себе — опыт, с кем работал, что важно в работе.]"}],"$L23"]}]]}],"$L24","$L25"]}],"$L26"],["$L27","$L28","$L29"],"$L2a"]}],"p":"$@2b","v":null,"s":"$18"}}]]
+19:[["children",{"s":"about","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$Lb",null,{}]}]]}],"p":"$@1a","v":"$1b","s":"$18"},"c":"$Q1c"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1e5d007mgyu61.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0k_nqvskxk0qu.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/300j7bl5l2iay.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/33z72k09fq65s.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/1d_b8b7_ss8u5.js","async":true}],["$","script","script-3",{"src":"/_next/static/chunks/0ejcg_jq2sd2w.js","async":true}],["$","script","script-4",{"src":"/_next/static/chunks/37npmw84azgm7.js","async":true}]],["$","html",null,{"lang":"ru","className":"XmJWXW_variable fDrBGq_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(d){try{var s=sessionStorage,l=localStorage,k=\"greeted\",n=Date.now();if(s.getItem(k)||n-(+l.getItem(k)||0)<86400000)return;s.setItem(k,\"1\");l.setItem(k,String(n))}catch(e){return}d.setAttribute(\"data-preloader\",\"\");var keys={\" \":1,PageUp:1,PageDown:1,Home:1,End:1,ArrowUp:1,ArrowDown:1},o={passive:false,capture:true},ev=[\"wheel\",\"touchmove\",\"keydown\"],stop=function(e){if(e.type!==\"keydown\"||keys[e.key])e.preventDefault()},free=0,h={at:performance.now(),release:function(){if(free)return;free=1;ev.forEach(function(t){removeEventListener(t,stop,o)})}};ev.forEach(function(t){addEventListener(t,stop,o)});window.__preloader=h;var end=function(){if(h.claimed)return;h.release();d.removeAttribute(\"data-preloader\")};addEventListener(\"animationend\",function(e){if(e.target.hasAttribute&&e.target.hasAttribute(\"data-preloader-panel\"))end()},true);setTimeout(end,2900)})(document.documentElement)"}}]}],["$","body",null,{"children":[["$","$L7",null,{}],[["$","style",null,{"dangerouslySetInnerHTML":{"__html":":root{--preloader-cap:1.1s;--preloader-exit:0.8s;--preloader-ease:cubic-bezier(0.83, 0, 0.17, 1);--preloader-fade:0.3s;--rise-failsafe:calc(3s + var(--preloader-wait, 0s))}html[data-preloader]{--preloader-wait:1.9000000000000001s}"}}],["$","noscript",null,{"dangerouslySetInnerHTML":{"__html":"<style>.DQXlqG_split,.DQXlqG_line{transform:none!important;opacity:1!important;animation:none!important}</style>"}}]],["$","$L8",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/15i667fq5xg3r.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0euox33oyn6j3.css","precedence":"next"}]],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/3iht6-owfwevb.js","async":true}]],"template":["$","$Lb",null,{}],"notFound":[[["$","$Le",null,{}],["$","$L10",null,{}]],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/15i667fq5xg3r.css","precedence":"next"}]]]}],["$","$L11",null,{}],["$","$L12",null,{}],["$","$L13",null,{}],["$","$L14",null,{}],["$","$L15",null,{}],false,false,["$","$L16",null,{}]]}]]}]]}],"p":"$@17","v":null,"s":"$18"},"c":"$Q19"},"h":{"r":["$","$1","h",{"children":[null,["$","$L2d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#EFEFEC"}]]}],["$","$L2f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$30",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Обо мне — Илья"}],["$","meta","1",{"name":"description","content":"Дизайнер и разработчик из Санкт-Петербурга. Веду проект от идеи и визуала до кода и анимации."}],["$","meta","2",{"name":"application-name","content":"Илья"}],["$","link","3",{"rel":"canonical","href":"https://yakurnov-web.github.io/about/"}],["$","meta","4",{"name":"format-detection","content":"telephone=no"}],["$","meta","5",{"property":"og:title","content":"Обо мне — Илья"}],["$","meta","6",{"property":"og:description","content":"Дизайнер и разработчик из Санкт-Петербурга. Веду проект от идеи и визуала до кода и анимации."}],["$","meta","7",{"property":"og:url","content":"https://yakurnov-web.github.io/about/"}],["$","meta","8",{"property":"og:site_name","content":"Илья"}],"$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40"]}]}],null]}],"$L41"]}],"p":"$@42","v":null,"s":"$18"}},"a":"$@43","u":"$@44","b":"xVUyIriGx4DpcZu32pF8U"}
+45:I[22016,["$2","$3","$4","$5","$6","$c","$d"],""]
+46:I[34145,["$2","$3","$4","$5","$6","$c","$d"],"default"]
+47:I[97367,["$2","$3","$4","$5","$6"],"OutletBoundary"]
+49:I[27201,["$2","$3","$4","$5","$6"],"IconMark"]
+23:["$","$L22",null,{"as":"ul","className":"-i9KWa_tools","delay":0.12,"children":[["$","li","Figma",{"className":"-i9KWa_tool","children":"Figma"}],["$","li","Tilda",{"className":"-i9KWa_tool","children":"Tilda"}],["$","li","Next.js",{"className":"-i9KWa_tool","children":"Next.js"}],["$","li","GSAP",{"className":"-i9KWa_tool","children":"GSAP"}],["$","li","Three.js",{"className":"-i9KWa_tool","children":"Three.js"}],["$","li","Claude Code",{"className":"-i9KWa_tool","children":"Claude Code"}],["$","li","Codex",{"className":"-i9KWa_tool","children":"Codex"}]]}]
+24:["$","section",null,{"className":"-i9KWa_services","aria-labelledby":"about-services","children":[["$","$L22",null,{"as":"h2","id":"about-services","className":"-i9KWa_label","children":"Что делаю"}],["$","ol",null,{"className":"-i9KWa_serviceList","children":[["$","$L22","Дизайн сайтов",{"as":"li","className":"-i9KWa_service","delay":0,"children":[["$","span",null,{"className":"-i9KWa_serviceName","children":"Дизайн сайтов"}],["$","span",null,{"className":"-i9KWa_num","aria-hidden":"true","children":"01"}]]}],["$","$L22","Разработка и анимация",{"as":"li","className":"-i9KWa_service","delay":0.06,"children":[["$","span",null,{"className":"-i9KWa_serviceName","children":"Разработка и анимация"}],["$","span",null,{"className":"-i9KWa_num","aria-hidden":"true","children":"02"}]]}],["$","$L22","Визуал продуктов и полиграфия",{"as":"li","className":"-i9KWa_service","delay":0.12,"children":[["$","span",null,{"className":"-i9KWa_serviceName","children":"Визуал продуктов и полиграфия"}],["$","span",null,{"className":"-i9KWa_num","aria-hidden":"true","children":"03"}]]}],["$","$L22","Арт-дирекшн",{"as":"li","className":"-i9KWa_service","delay":0.18,"children":[["$","span",null,{"className":"-i9KWa_serviceName","children":"Арт-дирекшн"}],["$","span",null,{"className":"-i9KWa_num","aria-hidden":"true","children":"04"}]]}]]}]]}]
+25:["$","section",null,{"className":"-i9KWa_steps","aria-labelledby":"about-steps","children":[["$","$L22",null,{"as":"h2","id":"about-steps","className":"-i9KWa_label","children":"Как работаю"}],["$","div",null,{"className":"-i9KWa_stepsBody","children":[["$","ol",null,{"className":"-i9KWa_stepList","children":[["$","$L1e","Разбираю продукт и аудиторию",{"as":"li","className":"-i9KWa_stepSlot","speed":1,"phoneSpeed":1,"children":["$","$L22",null,{"className":"-i9KWa_step","delay":0,"children":[["$","span",null,{"className":"-i9KWa_stepNum","aria-hidden":"true","children":"01"}],["$","span",null,{"className":"-i9KWa_stepName","children":"Разбираю продукт и аудиторию"}]]}]}],["$","$L1e","Концепция и визуал",{"as":"li","className":"-i9KWa_stepSlot","speed":0.94,"phoneSpeed":1,"children":["$","$L22",null,{"className":"-i9KWa_step","delay":0.06,"children":[["$","span",null,{"className":"-i9KWa_stepNum","aria-hidden":"true","children":"02"}],["$","span",null,{"className":"-i9KWa_stepName","children":"Концепция и визуал"}]]}]}],["$","$L1e","Дизайн страниц",{"as":"li","className":"-i9KWa_stepSlot","speed":0.88,"phoneSpeed":1,"children":["$","$L22",null,{"className":"-i9KWa_step","delay":0.12,"children":[["$","span",null,{"className":"-i9KWa_stepNum","aria-hidden":"true","children":"03"}],["$","span",null,{"className":"-i9KWa_stepName","children":"Дизайн страниц"}]]}]}],["$","$L1e","Код, анимация, запуск",{"as":"li","className":"-i9KWa_stepSlot","speed":0.82,"phoneSpeed":1,"children":["$","$L22",null,{"className":"-i9KWa_step","delay":0.18,"children":[["$","span",null,{"className":"-i9KWa_stepNum","aria-hidden":"true","children":"04"}],["$","span",null,{"className":"-i9KWa_stepName","children":"Код, анимация, запуск"}]]}]}]]}],["$","$L45",null,{"className":"-i9KWa_lab","href":"/lab","children":"Лаборатория →"}]]}]]}]
+26:["$","$L46",null,{}]
+27:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/15i667fq5xg3r.css","precedence":"next"}]
+28:["$","script","script-0",{"src":"/_next/static/chunks/3z4vvk79bp1a6.js","async":true}]
+29:["$","script","script-1",{"src":"/_next/static/chunks/1kh2w-t9mc5xb.js","async":true}]
+2a:["$","$L47",null,{"children":["$","$30",null,{"name":"Next.MetadataOutlet","children":"$@48"}]}]
+31:["$","meta","9",{"property":"og:locale","content":"ru_RU"}]
+32:["$","meta","10",{"property":"og:image","content":"https://yakurnov-web.github.io/og/about.jpg"}]
+33:["$","meta","11",{"property":"og:image:type","content":"image/jpeg"}]
+34:["$","meta","12",{"property":"og:image:width","content":"1200"}]
+35:["$","meta","13",{"property":"og:image:height","content":"630"}]
+36:["$","meta","14",{"property":"og:image:alt","content":"Обо мне — Илья"}]
+37:["$","meta","15",{"property":"og:type","content":"website"}]
+38:["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}]
+39:["$","meta","17",{"name":"twitter:title","content":"Обо мне — Илья"}]
+3a:["$","meta","18",{"name":"twitter:description","content":"Дизайнер и разработчик из Санкт-Петербурга. Веду проект от идеи и визуала до кода и анимации."}]
+3b:["$","meta","19",{"name":"twitter:image","content":"https://yakurnov-web.github.io/og/about.jpg"}]
+3c:["$","meta","20",{"name":"twitter:image:alt","content":"Обо мне — Илья"}]
+3d:["$","link","21",{"rel":"icon","href":"/favicon.ico?favicon.3e3o_1bdwinpl.ico","sizes":"48x48","type":"image/x-icon"}]
+3e:["$","link","22",{"rel":"icon","href":"/icon.svg?icon.33r2vl9tewwed.svg","sizes":"any","type":"image/svg+xml"}]
+3f:["$","link","23",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.34lkq_gwh97s7.png","sizes":"180x180","type":"image/png"}]
+40:["$","$L49","24",{}]
+41:["$","meta",null,{"name":"next-size-adjust","content":""}]
+18:300
+48:null
+44:true
+18:C
+43:0
+1a:"$undefined"
+17:"$undefined"
+42:"$undefined"
+2b:"$undefined"
